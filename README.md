@@ -1,4 +1,4 @@
-# graphtools
+# visualdiagnosis
 
 - OnlineStore.csv correspond to the data used in this example.
 - MatrixZero.cpp needs Rcpp to work, it is used in functions R.
